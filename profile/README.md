@@ -1,4 +1,4 @@
-<img src="assets/title.png" alt="HTML Logo" height=75 width=1000>
+<img src="assets/title.png" alt="HTML Logo" height=75 width=100>
 
 #### This GitHub Orginization was made to contain & show progress development for the POT-PLEX-CLUB network, however, this orginization is mainly in use to hold vital sections of the server to store date like our releases section releases or specific assets.
 *** 
