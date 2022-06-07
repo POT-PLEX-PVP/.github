@@ -1,1 +1,0 @@
-# Potplex org profile overview!
